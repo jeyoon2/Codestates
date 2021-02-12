@@ -1,3 +1,3 @@
 # Sprint - JavaScript Calculator
 
-![calculator](/desktop/calculator.png)
+![calculator](/Macintosh HD/USER/desktop/calculator.png)
